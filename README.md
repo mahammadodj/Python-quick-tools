@@ -1,2 +1,2 @@
 # Python-quick-tools
-This repo contains timely needed tools of different python libraries that I handled during my DRL projects.
+This repository contains the necessary tools I needed timely during my projects.
